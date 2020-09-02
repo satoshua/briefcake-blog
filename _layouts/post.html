@@ -51,6 +51,22 @@ layout: default
         </li>
       </ul>
     </div>
+    
+    <div class="container">
+	  <!-- begin author -->
+	  <section class="author" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="700">
+		<div class="author__inner">
+		<img src="{{site.baseurl}}{{site.author.image}}" alt="{{site.author.name}}" class="author__img">
+		  <h1 class="author__job">{{ site.author.job }}</h1>
+		  <p class="author__bio">{{ site.author.bio }}</p>
+		  <div class="author__more">
+			<a href="https://briefcake.com/signup" class="say-hello" target="_blank">Try 🍰 Briefcake</a>
+			<a href="https://briefcake.com/" class="know-more" target="_blank">Learn more</a>
+		  </div>
+		</div>
+	  </section>
+	  <!-- end author -->
+	</div>
 
     <div class="post__navigation">
       {% if page.previous.url %}

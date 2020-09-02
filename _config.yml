@@ -65,4 +65,4 @@ exclude:
   - Gemfile.lock
   - vendor
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman

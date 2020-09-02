@@ -1,31 +1,31 @@
-title: Derrick Wells – Independent Product Designer
+title: Briefcake blog
 logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-baseurl: "/derrick" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: Briefcake helps you follow websites by using RSS feeds to send you an email digest once a day at your preferred time.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.briefcake.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Derrick Wells
+  name: 🍰 Briefcake blog
   image: '/assets/img/01.jpg'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  job: A daily email from your favorites
+  bio: Briefcake helps you follow websites by using RSS feeds to send you an email digest once a day at your preferred time.
+  email: hello@briefcake.com
 
 
 # Contact links
 contact:
-  - name: Twitter
-    link: https://twitter.com/
-  - name: Facebook
-    link: https://facebook.com/
-  - name: Instagram
-    link: https://instagram.com/
+  - name: Contact
+    link: mailto:hello@briefcake.com
+  - name: FAQ
+    link: https://briefcake.com/faq
+  - name: Privacy
+    link: https://briefcake.com/privacy
 
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics

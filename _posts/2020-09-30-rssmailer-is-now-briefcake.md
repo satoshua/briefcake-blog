@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "RSSMailer is now Briefcake"
+permalink: /rssmailer/
 date:   2020-09-30 00:00:00
 image:  '/assets/img/02.jpg'
 tags:   news

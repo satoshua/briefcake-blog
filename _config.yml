@@ -11,13 +11,12 @@ author:
   image: '/assets/img/01.jpg'
   job: A daily email from your favorites
   bio: Briefcake helps you follow websites by using RSS feeds to send you an email digest once a day at your preferred time.
-  email: hello@briefcake.com
-
+  email: josh@atnmst.com
 
 # Contact links
 contact:
   - name: Contact
-    link: mailto:hello@briefcake.com
+    link: mailto:josh@atnmst.com
   - name: FAQ
     link: https://briefcake.com/faq
   - name: Privacy

@@ -8,7 +8,9 @@ tags:   news
 
 First of all, thanks so much for using RSSMailer.
 
-In order to better serve our growing userbase, we are rebranding to Briefcake and introducing some new features. Our core mission remains the same through this exciting update but there are a couple of things worth mentioning:
+In order to better serve our growing userbase, we are rebranding to Briefcake and introducing some new features. 
+
+Our core mission remains the same through this exciting update but there are a couple of things worth mentioning:
 
 - When you create your personal newsletter link, you can now add as many feeds as you like
 - We've been fighting off bots quite a bit recently so have made a few security improvements
